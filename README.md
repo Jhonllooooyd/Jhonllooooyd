@@ -28,9 +28,4 @@ I am Jhonlloyd B. Gacosta, with a flair for coding and database management skill
 
 - **Email:** gacostajhonlloyd3@gmail.com
 
-## Skills Icons
 
-[![LinkedIn](linkedin-icon-url)](linkedin-profile-link)
-[![Programming](programming-icon-url)](#)
-[![Databases](databases-icon-url)](#)
-[![Tools](tools-icon-url)](#)
