@@ -2,13 +2,13 @@
 
 ## About Me
 
-I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
+I am Jhonlloyd B. Gacosta, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
 ## Education
 
 - **BS Information Technology**
-  [New Era University](university-website-link)
-  2021-Present
+  [New Era University]
+  2022-Present
 
 ## Certifications
 
@@ -25,7 +25,7 @@ I am Juan Dela Cruz, with a flair for coding and database management skills. I t
 
 ## Connect with Me
 
-- **LinkedIn:** [LinkedIn Profile](linkedin-profile-link)
+
 - **Email:** gacostajhonlloyd3@gmail.com
 
 ## Skills Icons
